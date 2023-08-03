@@ -20,5 +20,7 @@ The "Bill-Splitting Calculator for a Party" is a Python script that helps friend
 | It showcases the ability to handle user inputs, manage data using dictionaries, and perform basic arithmetic calculations.
 | The "lucky" feature illustrates creativity and attention to user experience, making the bill-splitting process more engaging for participants.
 
+
+
 https://github.com/vianaxx/Bill_Splitter/assets/124326973/7a04bb16-01e7-4c39-97bc-e478fe39e198
 
