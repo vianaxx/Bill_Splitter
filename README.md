@@ -16,7 +16,9 @@ The "Bill-Splitting Calculator for a Party" is a Python script that helps friend
 
 - Benefits and Learning:
 
-  This project demonstrates proficiency in Python programming and problem-solving skills in a real-life context. It showcases the ability to handle user inputs, manage data using dictionaries, and perform basic arithmetic calculations. The "lucky" feature illustrates creativity and attention to user experience, making the bill-splitting process more engaging for participants.
+This project demonstrates proficiency in Python programming and problem-solving skills in a real-life context. 
+It showcases the ability to handle user inputs, manage data using dictionaries, and perform basic arithmetic calculations.
+The "lucky" feature illustrates creativity and attention to user experience, making the bill-splitting process more engaging for participants.
 
 
 
