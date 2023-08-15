@@ -1,24 +1,38 @@
 # Bill-Splitting Calculator for a Party
 
-The "Bill-Splitting Calculator for a Party" is a Python script that helps friends easily divide the total bill for a party among themselves. When organizing a gathering, it is often challenging to manage expenses fairly. This script simplifies the process by distributing the costs evenly, considering the option of a "lucky" friend who gets a free pass for their share.
+This Python program helps you split a bill among friends for a party. It calculates how much each person needs to contribute towards the total bill, considering whether any participant should be treated as the "lucky" person whose share is covered by others.
 
-- Key Features:
+## Features
 
-| Interactive Input: The script interacts with the user, asking for the number of friends attending the party, their names, and the total bill amount.
-| Random Lucky Draw: An optional feature allows the program to randomly select one "lucky" friend who won't have to pay anything, lightening the financial load for one person.
-| Bill-Splitting Algorithm: The script calculates and divides the remaining bill after the lucky friend's deduction equally among all the participants, ensuring everyone pays a fair share.
-| Output Display: The final bill-splitting details are presented in a user-friendly manner, showing the contribution amount for each attendee.
+- Accepts the number of friends joining the party and their names.
+- Takes the total bill value as input.
+- Offers the option to use the "Who is lucky?" feature, which covers the lucky person's share.
+- Calculates and distributes the bill amount among friends.
+- Displays the distribution of the bill amount for each friend.
 
-- Technologies Used:
+## Instructions
 
-| Python: The entire project is written in Python.
-| Random Module: The random module is utilized to select the "lucky" friend randomly from the list of attendees.
+1. Run the Python program in a suitable environment that supports Python.
+2. The program will prompt you to enter the number of friends joining the party, including yourself.
+3. Provide the names of all friends, each on a new line.
+4. Enter the total bill value for the party.
+5. Choose whether you want to use the "Who is lucky?" feature by typing `Yes` or `No`.
+6. If you choose `Yes`, the program will randomly select a lucky friend whose share is covered by others.
+7. The program will then calculate and display the bill distribution among all friends.
 
-- Benefits and Learning:
+## Notes
 
-This project demonstrates proficiency in Python programming and problem-solving skills in a real-life context. 
-It showcases the ability to handle user inputs, manage data using dictionaries, and perform basic arithmetic calculations.
-The "lucky" feature illustrates creativity and attention to user experience, making the bill-splitting process more engaging for participants.
+- Ensure you have Python installed on your system.
+- The program uses the `random` module to choose a lucky friend.
+- If you choose the "Who is lucky?" feature, the lucky friend's share is not considered in the bill distribution.
+- If you choose not to use the "Who is lucky?" feature, the bill is evenly distributed among all participants.
+- The program rounds the calculated split amounts to two decimal places.
+- You can customize the program to suit your needs or modify the output format if desired.
+
+  
+Feel free to customize and improve this code according to your needs!
+
+Enjoy your party and the hassle-free bill splitting!
 
 
 
