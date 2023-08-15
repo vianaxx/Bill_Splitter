@@ -30,9 +30,9 @@ This Python program helps you split a bill among friends for a party. It calcula
 - You can customize the program to suit your needs or modify the output format if desired.
 
   
-Feel free to customize and improve this code according to your needs!
+## Acknowledgements
 
-Enjoy your party and the hassle-free bill splitting!
+This project is inspired by the JetBrains Academy.
 
 
 
